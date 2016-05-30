@@ -1,0 +1,26 @@
+{
+  "name": "knockout-orderable",
+  "homepage": "https://github.com/apuchkov/knockout-orderable",
+  "description": "This knockout binding allows to create sortable tables.",
+  "main": "knockout.bindings.orderable.js",
+  "keywords": [
+    "knockout",
+    "custom",
+    "binding",
+    "orderable"
+  ],
+  "authors": [
+    "apuchkov"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "knockout": "knockoutjs#^3.4.0"
+  }
+}
