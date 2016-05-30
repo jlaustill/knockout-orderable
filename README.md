@@ -21,6 +21,8 @@ There is nothing to be configured on a view model manually to use the plugin. On
 ###Can be used with multiple observableArrays
 Works well with multiple observableArray. oservableArrays can be ordered independently of each other.
 
+##Installation
+	bower install knockout-orderable
 
 ##Usage
 To make table header sortable set binding like this:
